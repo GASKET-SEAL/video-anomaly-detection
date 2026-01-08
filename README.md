@@ -4,5 +4,6 @@ pixel-play-26 video anomaly detection - A Dual-Engine approach using:
    - submission1.py ( score- 0.6405 in public leaderboard )
    - chosen architecture for the competition
 3) Spatio-temporal Autoencoder CNN for deep reconstruction of .mat video volumes.
-   - submission2.py 
+   - submission2.py ( score- 0.499 in public leaderboard )
    - alternate way used in the competition
+   - not chosen as final architecture because of the low score
